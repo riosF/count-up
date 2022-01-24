@@ -14,7 +14,7 @@
     "numbers",
     "use count up"
   ],
-  "homepage": "https://github.com/riosF/CountUp",
+  "homepage": "https://github.com/riosF/count-up",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
