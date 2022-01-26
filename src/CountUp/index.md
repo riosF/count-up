@@ -123,6 +123,27 @@ function App() {
           </Card>
         </Col>
       </Row>
+      <CountUp
+        start={0}
+        end={617}
+        duration={2000}
+        easing={'easeOutExpo'}
+        autoResetKey={[refresh]}
+        render={({ value }) => {
+          return (
+            <>
+              <Statistic
+                precision={0}
+                title="新能源车辆销量"
+                value={value as any}
+                valueStyle={{ color: 'red' }}
+                suffix="辆"
+                prefix={<ArrowUpOutlined />}
+              />
+            </>
+          );
+        }}
+      />
     </div>
   );
 }
