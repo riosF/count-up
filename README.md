@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>count-up-es-react</h1>
   <p>
     <br />
@@ -15,6 +15,10 @@ yarn add count-up-es-react
 // or
 npm i count-up-es-react
 ```
+
+该组件是一个在指定时间内，从一个数字动态变化到另一个数字，动画类型丰富，涵盖了非常多的 easing 动画算法，值得推荐使用，特别适合开发大屏使用。 demo 图片示例： ![C.gif](https://upload-images.jianshu.io/upload_images/4981782-c5bffea292e0f279.gif?imageMogr2/auto-orient/strip)
+
+搭配自定义字体使用： ![A.gif](https://upload-images.jianshu.io/upload_images/4981782-f1f4de88bf8740c8.gif?imageMogr2/auto-orient/strip)
 
 ## Demo
 
