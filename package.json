@@ -1,9 +1,9 @@
 {
   "private": false,
   "name": "count-up-es-react",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "es/index.js",
-  "description": "CountUp AnimationNumber",
+  "description": "CountUp AnimationNumber （从一个数字动态变化到另一个数字）",
   "repository": "riosF/CountUp",
   "license": "MIT",
   "keywords": [
