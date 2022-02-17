@@ -20,6 +20,8 @@ npm i count-up-es-react
 
 搭配自定义字体使用： ![A.gif](https://upload-images.jianshu.io/upload_images/4981782-f1f4de88bf8740c8.gif?imageMogr2/auto-orient/strip)
 
+<API></API>
+
 ## Demo
 
 ## Component basic usage
