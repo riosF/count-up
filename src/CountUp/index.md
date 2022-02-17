@@ -1,5 +1,7 @@
 ## CountUp
 
+API <API>
+
 Demo:
 
 ```tsx

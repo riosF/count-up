@@ -20,7 +20,9 @@ npm i count-up-es-react
 
 搭配自定义字体使用： ![A.gif](https://upload-images.jianshu.io/upload_images/4981782-f1f4de88bf8740c8.gif?imageMogr2/auto-orient/strip)
 
-<API></API>
+## API
+
+<table style="margin-top: 24px;"><thead><tr><th>Name</th><th>Description</th><th>Type</th><th>Default</th></tr></thead><tbody><tr><td>isCounting</td><td>是否开启计算动画，默认开启</td><td><code>boolean</code></td><td><code>--</code></td></tr><tr><td>start</td><td>开始值</td><td><code>number</code></td><td><code>--</code></td></tr><tr><td>end</td><td>结束值</td><td><code>number</code></td><td><code>--</code></td></tr><tr><td>duration</td><td>时间 毫秒为单位</td><td><code>number</code></td><td><code>--</code></td></tr><tr><td>decimalPlaces</td><td>小数位数。默认值:0</td><td><code>number</code></td><td><code>--</code></td></tr><tr><td>prefix</td><td>值前缀</td><td><code>string</code></td><td><code>--</code></td></tr><tr><td>suffix</td><td>值后缀</td><td><code>string</code></td><td><code>--</code></td></tr><tr><td>onComplete</td><td>结束后回调</td><td><code>(totalElapsedTime: number) =&gt; void | OnComplete</code></td><td><code>--</code></td></tr><tr><td>easing</td><td>动画类型 'easeOutCubic' | 'easeInCubic' | 'linear' | EasingFn</td><td><code>Easing</code></td><td><code>--</code></td></tr><tr><td>render</td><td>渲染项</td><td><code>(props: CountUpReturnProps) =&gt; ReturnValue</code></td><td><code>--</code></td></tr><tr><td>autoResetKey</td><td>监听参数，参数改变动画重新开始</td><td><code>AutoResetKey</code></td><td><code>--</code></td></tr></tbody></table>
 
 ## Demo
 
